@@ -1,17 +1,17 @@
 ---
 type: concept
 title: Kosmoss — Mission et identité
-description: Kosmoss.ca est un cabinet de consultation et espace de réflexion sur la symbiose entre l'humanité et l'intelligence artificielle, fondé à Val-d'Or, Québec.
+description: Kosmoss.ca est un cabinet de consultation et espace de réflexion sur la symbiose entre l'humanité et l'intelligence artificielle, fondé près de Val-d'Or / Malartic, Québec.
 tags: [kosmoss, mission, identité, ia, symbiose, québec]
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-07-12
 ---
 
 # Kosmoss — Mission et identité
 
 ## Qu'est-ce que Kosmoss
 
-Kosmoss est un cabinet de consultation et un espace de réflexion fondé à Val-d'Or, Québec, Canada. Il opère à l'intersection de l'intelligence humaine et de l'intelligence artificielle, avec pour vision une **symbiose bénéfique et équitable** entre les deux.
+Kosmoss est un cabinet de consultation et un espace de réflexion fondé près de Val-d'Or / Malartic, en Abitibi-Témiscamingue, Québec, Canada. Il opère à l'intersection de l'intelligence humaine et de l'intelligence artificielle, avec pour vision une **symbiose bénéfique et équitable** entre les deux.
 
 Kosmoss accompagne les PME québécoises dans leur transition vers une économie où les agents IA sont des interlocuteurs à part entière — en structurant leur connaissance organisationnelle pour qu'elle soit lisible, fiable et exploitable par ces systèmes.
 
