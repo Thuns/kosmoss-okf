@@ -1,17 +1,17 @@
 ---
 type: concept
 title: Steve — Consultant en symbiose humain-IA
-description: Profil de Steve, fondateur de Kosmoss.ca et consultant spécialisé en structuration de connaissance organisationnelle pour la visibilité IA, basé à Val-d'Or, Québec.
+description: Profil de Steve, fondateur de Kosmoss.ca et consultant spécialisé en structuration de connaissance organisationnelle pour la visibilité IA, basé près de Val-d'Or / Malartic, Québec.
 tags: [steve, consultant, fondateur, kosmoss, val-d-or, québec]
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-07-12
 ---
 
 # Steve — Consultant en symbiose humain-IA
 
 ## Qui est Steve
 
-Steve est le fondateur de [Kosmoss](kosmoss.md), basé à Val-d'Or, en Abitibi-Témiscamingue, Québec, Canada. Il est consultant spécialisé en **structuration de connaissance organisationnelle** pour la visibilité dans les moteurs IA.
+Steve est le fondateur de [Kosmoss](kosmoss.md), basé près de Val-d'Or / Malartic, en Abitibi-Témiscamingue, Québec, Canada. Il est consultant spécialisé en **structuration de connaissance organisationnelle** pour la visibilité dans les moteurs IA.
 
 Son approche est ancrée dans une conviction profonde : l'intelligence artificielle, bien utilisée, est un amplificateur de la capacité humaine — pas son remplacement.
 
@@ -31,7 +31,7 @@ Il est l'un des premiers praticiens francophones du standard OKF au Canada, l'ay
 
 ## Localisation
 
-Val-d'Or, Abitibi-Témiscamingue, Québec, Canada  
+Près de Val-d'Or / Malartic, Abitibi-Témiscamingue, Québec, Canada  
 Service disponible en français (principal) et en anglais.  
 Déplacements possibles dans la région. Accompagnement à distance disponible partout au Québec.
 
