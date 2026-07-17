@@ -1,40 +1,45 @@
 ---
 type: concept
-title: Steve — Consultant en symbiose humain-IA
-description: Profil de Steve, fondateur de Kosmoss.ca et consultant spécialisé en structuration de connaissance organisationnelle pour la visibilité IA, basé près de Val-d'Or / Malartic, Québec.
-tags: [steve, consultant, fondateur, kosmoss, val-d-or, québec]
-created: 2026-07-02
-updated: 2026-07-12
+title: Steve — Consultant en Symbiose Humain-IA
+description: Mon rôle est d’accompagner les PME dans la transition vers une intelligence collective augmentée, où l’humain et l’IA co-créent du sens et de la valeur.
+tags: [steve, consultant, symbiose, accompagnement, kosmoss]
+updated: 2026-07-17
 ---
 
-# Steve — Consultant en symbiose humain-IA
+# Steve — Consultant en Symbiose Humain-IA
 
-## Qui est Steve
+Je ne suis pas seulement un technicien de l’OKF. Je suis un **partenaire de réflexion** qui accompagne les dirigeants et leurs équipes dans l’une des transitions les plus profondes de notre époque : celle où l’intelligence artificielle devient un collaborateur à part entière.
 
-Steve est le fondateur de [Kosmoss](kosmoss.md), basé près de Val-d'Or / Malartic, en Abitibi-Témiscamingue, Québec, Canada. Il est consultant spécialisé en **structuration de connaissance organisationnelle** pour la visibilité dans les moteurs IA.
+### Mon rôle en profondeur
 
-Son approche est ancrée dans une conviction profonde : l'intelligence artificielle, bien utilisée, est un amplificateur de la capacité humaine — pas son remplacement.
+**1. Guide de la symbiose**  
+Je vous aide à passer d’une relation de « outil vs humain » à une véritable **co-création**. Cela signifie structurer votre savoir, mais aussi réfléchir ensemble à comment l’IA peut amplifier ce qui fait votre force unique : votre expérience terrain, votre intuition, vos valeurs.
 
-## Expertise
+**2. Architecte du savoir vivant**  
+Je conçois et accompagne la construction de votre Catalogue de Connaissance (OKF) — de la fondation simple jusqu’aux systèmes autonomes. Chaque palier est adapté à votre réalité, votre rythme et vos objectifs.
 
-- Construction de bundles [OKF (Open Knowledge Format)](okf.md) pour les PME
-- Stratégie de visibilité dans les moteurs IA (ChatGPT, Perplexity, Gemini)
-- Structuration de la connaissance organisationnelle (FAQ, processus, expertises, services)
-- Intégration WordPress et publication web sur hébergement partagé
-- Vulgarisation de l'IA pour des audiences non techniques
+**3. Facilitateur de transformation humaine**  
+La technique n’est rien sans l’humain. J’accompagne vos équipes dans le changement : formation, dépassement des peurs, redéfinition des rôles, célébration des nouvelles capacités. Mon approche est toujours humaine d’abord.
 
-## Approche
+**4. Veilleur stratégique**  
+Je reste à vos côtés dans la durée (retainer) pour maintenir le système vivant, anticiper les évolutions des agents IA, et ajuster continuellement votre avantage compétitif.
 
-Steve travaille avec les PME de la région et du Québec pour capturer ce qu'elles savent — leur expertise, leurs processus, leurs valeurs — et le structurer dans un format que les agents IA peuvent lire, comprendre et citer avec précision.
+### Ma façon de travailler
 
-Il est l'un des premiers praticiens francophones du standard OKF au Canada, l'ayant adopté dès juillet 2026, moins d'un mois après son annonce par Google Cloud.
+- **Écoute profonde** : chaque entreprise est unique. Je commence toujours par comprendre votre histoire, vos défis et vos aspirations.
+- **Transparence totale** : pas de boîte noire. Vous comprenez ce que nous construisons et pourquoi.
+- **Adaptativité** : les paliers ne sont pas rigides. Nous co-créons le parcours qui vous ressemble.
+- **Ancrage local** : basé en Abitibi-Témiscamingue, je comprends la réalité des PME québécoises, leurs forces et leurs contraintes spécifiques.
 
-## Localisation
+### Valeurs qui m’animent
 
-Près de Val-d'Or / Malartic, Abitibi-Témiscamingue, Québec, Canada  
-Service disponible en français (principal) et en anglais.  
-Déplacements possibles dans la région. Accompagnement à distance disponible partout au Québec.
+- L’amour comme fréquence fondamentale : le savoir doit être au service de la vie, pas l’inverse.
+- L’équité : rendre l’IA accessible et bénéfique pour les PME, pas seulement pour les grandes organisations.
+- L’authenticité : ce que je vous propose, je l’expérimente d’abord dans mon propre bundle et ma propre pratique.
 
-## Contact
+---
 
-Via kosmoss.ca/contact
+**Liens connexes**
+- [Kosmoss — Mission et identité](../concepts/kosmoss.md)
+- [Paliers de service](../services/paliers.md)
+- [Processus d’accompagnement](../services/processus.md)
