@@ -20,7 +20,7 @@ Mon rôle d’Architecte des Compétences consiste à être le gardien du lien e
 
 C’est une valeur ajoutée profonde qui transforme l’agent d’un simple outil en un véritable collaborateur augmentant le vivant.
 
-## Exemple d’architecture pour une entreprise comme ASDR
+## Exemple d’architecture pour une entreprise
 
 | Pôle                     | Exemples de compétences potentielles |
 |--------------------------|-------------------------------------|
