@@ -1,3 +1,4 @@
+---
 type: concept
 title: Mode Explorateur
 description: Le mode de Curiosité, émerveillement, créativité.
