@@ -32,6 +32,16 @@ Ce bundle est conforme à la spécification [Open Knowledge Format v0.1](https:/
 - [Open Knowledge Format (OKF)](concepts/okf.md)
 - [Visibilité IA vs SEO traditionnel](concepts/visibilite-ia.md)
 - [Les agents IA et le protocole A2A](concepts/agents-ia.md)
+- [Architecte des Compétences](concepts/architecte-competences.md)
+- [Archétypes & Modes de Pensée](concepts/archetypes/index.md)
+- [Représentations & Avatars des Archétypes](concepts/archetypes/representations.md)
+
+  ### Mode de pensée
+  - [Mode Sage](concepts/archetypes/sage.md)
+  - [Mode Explorateur](concepts/archetypes/explorateur.md)
+  - [Mode Bâtisseur](concepts/archetypes/batisseur.md)
+  - [Mode Compagnon](concepts/archetypes/compagnon.md)
+  - [Mode Synthétiseur](concepts/archetypes/synthetiseur.md)
 
 ### Playbooks opérationnels
 - [Audit initial d'un client](playbooks/audit-initial.md)
