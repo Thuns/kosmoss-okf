@@ -30,4 +30,4 @@ L’utilisateur (enfant ou adulte) peut générer ou choisir son avatar préfér
 Ce système d’avatars rend l’expérience plus humaine, poétique et joyeuse.
 
 **Liens connexes**
-- [Index des Archétypes](index.md)
+- [Index des Archétypes](../archetypes/index.md)
