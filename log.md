@@ -2,32 +2,52 @@
 type: log
 title: Historique du bundle Kosmoss OKF
 description: Journal chronologique des mises à jour du bundle de connaissance Kosmoss.ca.
-updated: 2026-07-02
+updated: 2026-07-22
 ---
 
 # Historique des mises à jour
 
-## 2026-07-02 — Lancement initial du bundle
+## 2026-07-22 — v3 : Ajout de la section Archétypes & Modes de Pensée
+
+**Auteur** : Steve (Kosmoss)  
+**Type** : Ajout majeur
+
+### Fichiers ajoutés
+- `archetypes/index.md` — vue d'ensemble des 5 modes de pensée
+- `archetypes/explorateur.md` — curiosité, émerveillement, créativité
+- `archetypes/sage.md` — profondeur, compassion, perspective
+- `archetypes/batisseur.md` — structure, méthode, passage à l'action
+- `archetypes/compagnon.md` — soutien, célébration, chaleur humaine
+- `archetypes/synthetiseur.md` — intégration, harmonie, Concile
+- `archetypes/representations.md` — avatars et représentations visuelles
+- `concepts/architecte-competences.md` — rôle d'Architecte des Compétences IA
+
+### Fichiers mis à jour
+- `index.md` — intégration de la section Archétypes dans la navigation principale
+
+### Notes
+Les Archétypes représentent une couche philosophique distinctive de Kosmoss, inspirée du Concile des 7 (collaboration multi-modèles IA). Chaque archétype peut être activé comme mode de conversation par l'utilisateur.
+
+---
+
+## 2026-07-02 — v2 : Migration vers okf.kosmoss.ca
+
+**Auteur** : Steve (Kosmoss)  
+**Type** : Infrastructure
+
+### Changements
+- Création du sous-domaine `okf.kosmoss.ca` (résolution du conflit WordPress/.htaccess)
+- Mise à jour de tous les liens vers `https://okf.kosmoss.ca/`
+- Ajout du certificat Let's Encrypt sur le sous-domaine
+
+---
+
+## 2026-07-02 — v1 : Lancement initial du bundle
 
 **Auteur** : Steve (Kosmoss)  
 **Type** : Création initiale
 
 ### Fichiers créés
-- `index.md` — sommaire principal du bundle
-- `log.md` — ce fichier
-- `concepts/kosmoss.md` — mission et identité de Kosmoss
-- `concepts/steve.md` — profil du consultant
-- `concepts/okf.md` — explication du format OKF
-- `concepts/visibilite-ia.md` — visibilité IA vs SEO traditionnel
-- `services/catalogue-connaissance.md` — service principal
-- `services/paliers.md` — les 3 paliers (Fondation, Croissance, Autorité)
-- `services/processus.md` — les 4 phases de livraison
-- `playbooks/audit-initial.md` — procédure d'audit client
-- `references/okf-spec.md` — référence vers la spec officielle Google
+- Structure complète : concepts/, services/, playbooks/, references/
+- `llms.txt` à la racine de kosmoss.ca
 
-### Notes
-Premier bundle OKF public de Kosmoss. Adopté 20 jours après l'annonce officielle de Google Cloud (12 juin 2026). Ce bundle sert à la fois de démonstration du service et de base de connaissance opérationnelle pour Kosmoss.
-
----
-
-*Les prochaines entrées seront ajoutées au fil des mises à jour mensuelles.*
