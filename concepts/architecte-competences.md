@@ -50,5 +50,5 @@ Le savoir et les compétences doivent rester **au service de la vie**, pas l’i
 
 ## Liens connexes
 
-- [Steve — Consultant en Symbiose Humain-IA](steve.md)
+- [Steve — Consultant en Symbiose Humain-IA](../concepts/steve.md)
 - [Paliers de service](../services/paliers.md)
